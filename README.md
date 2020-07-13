@@ -19,4 +19,19 @@
 3. 跟着方方老师尝试做了一张[八卦图](https://steven-uv.github.io/html5-css3-demo-1/)
 4. 学习了Git的本地仓库和远程仓库以及用Markdown写博客
 
-后面还有很多内容，我会继续努力！接下来将会写一些技术博客，主要是学习笔记和一些整理，欢迎一起交流！
+接下来的学习内容包括
+
+css:
+
+`body{background-color:red;margin:0;}`
+
+javascript: 
+
+```javascript
+var name = "Steven";
+console.log(name);
+```
+
+......
+
+内容很多，但我会继续努力！接下来将会写一些技术博客，主要是学习笔记和一些整理，欢迎一起交流！
